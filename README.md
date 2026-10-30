@@ -1,6 +1,10 @@
 # 🎮 Steam Bandwidth Timer
 
-A Windows batch script that temporarily throttles Steam download speeds for a set duration, then automatically restores full speed. Ideal for gaming or working without Steam hogging bandwidth.
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](./LICENSE)
+[![Platform: Windows](https://img.shields.io/badge/Platform-Windows-0078D6?logo=windows)](https://www.microsoft.com/windows)
+[![Language: Batchfile](https://img.shields.io/badge/Language-Batchfile-4D4D4D?logo=windows-terminal)](https://en.wikipedia.org/wiki/Batch_file)
+
+> A Windows batch script that temporarily throttles Steam download speeds for a set duration, then automatically restores full speed. Ideal for gaming or working without Steam hogging bandwidth.
 
 ## ✨ Features
 
